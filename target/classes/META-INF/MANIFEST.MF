@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1525704700414
+Build-Jdk: 1.8.0_151
+Built-By: lixiaoguang
+Bundle-Description: Empty Camel Spring Example
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Empty Camel Spring Example [camel-amq]
+Bundle-SymbolicName: camel-amq
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.apache.activemq,org.apache.activemq.camel.component,
+ org.springframework.jms.connection
+Tool: Bnd-3.2.0.201605172007
